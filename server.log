@@ -1,0 +1,7 @@
+INFO:root:User string registered.
+INFO:root:User bob registered.
+INFO:root:User alice registered.
+INFO:root:User bob added 10 tokens.
+INFO:root:User eliya registered.
+INFO:root:User eliya added 5 tokens.
+INFO:root:User bob deleted.
